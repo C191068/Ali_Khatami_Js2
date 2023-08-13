@@ -26,6 +26,9 @@ At chrome press ```Ctrl + O``` then the above window for accessing to our local 
 So at the left side we can see our webpage shown with black arrow  <br>
 and on rigt side the message passed to the console shown with white arrow<br>
 
+![j29](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/6c73c2eb-6552-4dde-b3bc-118cae2a9086)
+The above is our css file <br>
+
 Now we will insert javascript into it's own file and link it with our html <br>
 
 
