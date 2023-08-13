@@ -52,6 +52,27 @@ with javascript we use <script> element, script element will have source attribu
 
 script element have a closing script tag <br>
 
+
+```html
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to Khatami Show</title>
+    <link rel="stylesheet" href="css/khatami.css" />
+    <script>
+      console.log("My name is Ali Khatami");
+    </script>
+  </head>
+  <body>
+    <main><h1>Welcome everyone to Khatami Show</h1></main>
+  </body>
+</html>
+
+```
+
 ![j27](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/7cacd176-1143-4cb3-b445-b91cc0950c27)
 
 At chrome press ```Ctrl + O``` then the above window for accessing to our local files will pop up <br>
