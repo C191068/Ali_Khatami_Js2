@@ -20,3 +20,7 @@ script element have a closing script tag <br>
 
 At chrome press ```Ctrl + O``` then the above window for accessing to our local files will pop up <br>
 
+![j28](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/1b998f8b-5b6e-4602-b919-778dcd7dc1fd)
+
+So at the left side we can see our webpage <br>
+
