@@ -87,5 +87,26 @@ and on rigt side the message passed to the console shown with white arrow<br>
 
 Now we will insert javascript into it's own file and link it with our html <br>
 
+![j31](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/363c824d-826e-4890-8404-a7980e268375)
+
+Here we created a new js folder with new js file in it <br>
+
+![j32](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/108af14a-914a-46ae-9eaf-866f3b5e4b21)
+
+we have the above code in the js file <br>
+
+![j33](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/9eab69c9-3635-461c-9c60-1201618c5850)
+We have the link js with html in the above way <br>
+
+
+
+
+
+
+
+
+
+
+
 
 
