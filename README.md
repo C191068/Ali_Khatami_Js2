@@ -12,3 +12,7 @@ We use the above exclamatory sign(!) and then hit enter <br>
 
 A minimal HTML document will appear <br>
 
+with javascript we use <script> element, script element will have source attribute <br>
+
+script element have a closing script tag <br>
+
