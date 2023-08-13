@@ -98,8 +98,9 @@ we have the above code in the js file <br>
 ![j33](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/9eab69c9-3635-461c-9c60-1201618c5850)
 We have the link js with html in the above way <br>
 
+![j34](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/76638224-f755-46bb-9395-45658576c6c3)
 
-
+We can see at console the message prints again <br>
 
 
 
