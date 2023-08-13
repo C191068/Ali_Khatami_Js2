@@ -20,7 +20,10 @@ script element have a closing script tag <br>
 
 At chrome press ```Ctrl + O``` then the above window for accessing to our local files will pop up <br>
 
-![j28](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/1b998f8b-5b6e-4602-b919-778dcd7dc1fd)
+![j28](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/677d7ece-1a70-4137-9626-93291b7b2c0d)
 
-So at the left side we can see our webpage <br>
+
+So at the left side we can see our webpage shown with black arrow  <br>
+and on rigt side the message passed to the console shown with white arrow<br>
+
 
