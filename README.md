@@ -26,4 +26,7 @@ At chrome press ```Ctrl + O``` then the above window for accessing to our local 
 So at the left side we can see our webpage shown with black arrow  <br>
 and on rigt side the message passed to the console shown with white arrow<br>
 
+Now we will insert javascript into it's own file and link it with our html <br>
+
+
 
