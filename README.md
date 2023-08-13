@@ -16,3 +16,7 @@ with javascript we use <script> element, script element will have source attribu
 
 script element have a closing script tag <br>
 
+![j27](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/7cacd176-1143-4cb3-b445-b91cc0950c27)
+
+At chrome press ```Ctrl + O``` then the above window for accessing to our local files will pop up <br>
+
