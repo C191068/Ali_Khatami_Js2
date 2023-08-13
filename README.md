@@ -102,7 +102,13 @@ We have the link js with html in the above way <br>
 
 We can see at console the message prints again <br>
 
+![j35](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/c8c9e1df-c7d9-4703-b1a6-037d53bc2d42)
 
+we use the above three code at our js file <br>
+
+![j36](https://github.com/C191068/Ali_Khatami_Js2/assets/89090776/75ff9dc8-dc79-479e-aa6f-86ea805808f9)
+
+we got the above three message at console <br>
 
 
 
